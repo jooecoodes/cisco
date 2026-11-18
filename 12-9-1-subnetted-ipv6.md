@@ -5,6 +5,8 @@ Welcome to IPv6! If you are coming from IPv4, you might expect IPv6 subnetting t
 
 In this guide, we will break down how to subnet an IPv6 network, configure Cisco routers, set up PCs to automatically get their IP addresses, and verify that everything works. By the end of this, you will understand the "why" and "how" of IPv6 implementation.
 
+![Network Topology](assets/12-net.png)
+
 ---
 
 ## Part 1: IPv6 Basics (For Absolute Beginners)
